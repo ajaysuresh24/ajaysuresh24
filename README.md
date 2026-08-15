@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1>Ajay Suresh</h1>
+  <h3>Mechanical & Aerospace Engineer</h3>
+  <b>Computational Fluid Dynamics • Atmospheric Flows • Engineering Design</b>
+</div>
 
-<!--
-**ajaysuresh24/ajaysuresh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🔬 Research & Engineering Focus</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🌪️ <a href="https://en.wikipedia.org/wiki/Fluid_dynamics"><b>Fluid Dynamics</b></a>
+&nbsp; | &nbsp;
+🧮 <a href="https://en.wikipedia.org/wiki/Numerical_analysis"><b>Numerical Methods</b></a>
+&nbsp; | &nbsp;
+⚙️ <a href="https://en.wikipedia.org/wiki/Mathematical_optimization"><b>Optimization</b></a>
+&nbsp; | &nbsp;
+🛰️ <a href="https://en.wikipedia.org/wiki/Remote_sensing"><b>Remote Sensing</b></a>
+</p>
